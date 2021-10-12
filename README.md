@@ -30,7 +30,7 @@ Atualmente sou **desenvolvedor Front-End**, iniciando a terceira etapa do curso 
 <a href="https://www.linkedin.com/in/jtvale/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:johntvale@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
+<img src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johntvale&layout=compact&theme=algolia)](https://github.com/johntvale/github-readme-stats)
 
