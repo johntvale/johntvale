@@ -11,7 +11,7 @@ Atualmente sou **desenvolvedor Front-End**, iniciando a terceira etapa do curso 
 - 👨‍💻 Trabalhei em projetos individuais e em grupo, os projetos estarão disponíveis no portifólio.
 - 🎸 Gosto muito de contra-baixo, apesar de só tocar o básico. 😂
 - 🎮 Também gosto de jogar nas horas vagas. Uno, Coup, AmongUs, lol. Não precisa ser online, desde que seja com amigos!
-- *🛰️ Sempre que possível acompanho a passagem ISS (International Space Station), do quintal de casa.*
+- *🛰️ Sempre que possível acompanho a passagem ISS (International Space Station).*
 
 ### Tecnologias que utilizo: ###
 <div display="inline">
