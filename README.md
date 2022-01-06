@@ -2,7 +2,7 @@
 
 Meu nome é **John Torres do Vale**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
 <br>
-Atualmente sou **desenvolvedor Front-End**, iniciando a terceira etapa do curso (Back-End) 🚀.
+Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End) 🚀.
 <br>
 *#Turma13B #GhostDevs 👻*
 
