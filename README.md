@@ -29,8 +29,8 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
 <a href="mailto:johntvale@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <div align="center">
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntvale&layout=compact&langs_count=7&theme=algolia" />
+<img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
+<img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntvale&layout=compact&langs_count=7&theme=algolia" />
 
 ![Snake animation](https://github.com/johntvale/johntvale/blob/output/github-contribution-grid-snake.svg)
 </div>
