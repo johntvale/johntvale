@@ -9,8 +9,8 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
 ### Um pouco sobre mim: ###
 - 💚 Sou apaixonado por tecnologia e desenvolvimento. 100% focado em me tornar desenvolvedor Full-Stack.
 - 👨‍💻 Trabalhei em projetos individuais e em grupo, os projetos estarão disponíveis no portifólio.
-- 🎸 Gosto muito de contra-baixo, apesar de só tocar o básico. 😂
-- 🎮 Também gosto de jogar nas horas vagas. Uno, Coup, AmongUs, lol. Não precisa ser online, desde que seja com amigos!
+- 🎸 Gosto muito de contra-baixo, apesar de só tocar o básico.
+- 🎮 Também gosto de jogar nas horas vagas. Uno, Coup, AmongUs, lol.
 - *🛰️ Sempre que possível acompanho a passagem ISS (International Space Station).*
 
 ### Tecnologias que utilizo: ###
@@ -19,14 +19,12 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
 </div>
 
 ### Meus contatos: ###
-<a href="https://github.com/johntvale">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jtvale/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:johntvale@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
