@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Meu nome é **John Torres do Vale**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
+Meu nome é **John Torres**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
 <br>
 Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End) 🚀.
 <br>
@@ -28,8 +28,9 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
 <a href="https://www.linkedin.com/in/jtvale/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:johntvale@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johntvale&layout=compact&theme=algolia)](https://github.com/johntvale/github-readme-stats)
+<div align="center">
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=johntvale&count_private=true&show_icons=true&theme=algolia&icon_color=268bd2&title_color=268bd2" alt="johntvale" />
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntvale&layout=compact&langs_count=7&theme=algolia" />
 
 ![Snake animation](https://github.com/johntvale/johntvale/blob/output/github-contribution-grid-snake.svg)
+</div>
