@@ -9,7 +9,7 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
 - 💚 Sou apaixonado por tecnologia e desenvolvimento. 100% focado em me tornar desenvolvedor Full-Stack.
 - 👨‍💻 Trabalhei em projetos individuais e em grupo, postarei aqui sempre que possível.
 - 🎸 Meus hobbies são: música, jogos e astronomia.
-- *🛰️ Sempre que possível acompanho a passagem ISS (International Space Station).*
+- *🛰️ Também gosto de acompanhar a passagem ISS (International Space Station).*
 
 ### Tecnologias que utilizo: ###
 <div display="inline">
