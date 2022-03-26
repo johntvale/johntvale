@@ -1,16 +1,14 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Meu nome é **John Torres**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
+Meu nome é **John Torres do Vale**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
 <br>
 Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End) 🚀.
 <br>
-*#Turma13B #GhostDevs 👻*
 
 ### Um pouco sobre mim: ###
 - 💚 Sou apaixonado por tecnologia e desenvolvimento. 100% focado em me tornar desenvolvedor Full-Stack.
-- 👨‍💻 Trabalhei em projetos individuais e em grupo, os projetos estarão disponíveis no portifólio.
-- 🎸 Gosto muito de contra-baixo, apesar de só tocar o básico.
-- 🎮 Também gosto de jogar nas horas vagas. Uno, Coup, AmongUs, lol.
+- 👨‍💻 Trabalhei em projetos individuais e em grupo, postarei aqui sempre que possível.
+- 🎸 Meus hobbies são: música, jogos e astronomia.
 - *🛰️ Sempre que possível acompanho a passagem ISS (International Space Station).*
 
 ### Tecnologias que utilizo: ###
@@ -18,10 +16,8 @@ Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
 </div>
 
 ### Meus contatos: ###
