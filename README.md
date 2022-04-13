@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Meu nome é **John Torres do Vale**, moro em Manaus, e sou estudante de **Desenvolvimento Web** na Trybe.
+Meu nome é **John Torres do Vale**, moro em Manaus, e sou estudante de **Desenvolvimento Web Full Stack** na Trybe.
 <br>
 Atualmente sou **desenvolvedor Front-End**, na terceira etapa do curso (Back-End) 🚀.
 <br>
