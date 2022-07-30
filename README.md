@@ -6,7 +6,7 @@ Sou **desenvolvedor Front-End**, atualmente cursando o último módulo da Trybe 
 <br>
 
 ### Um pouco sobre mim: ###
-- 💚 Sou apaixonado por tecnologia e desenvolvimento. 100% focado em me tornar um excelente Dev Front-End.
+- 💚 Sou apaixonado por tecnologia e desenvolvimento.
 - 👨‍💻 Trabalhei em projetos individuais e em grupo, postarei aqui sempre que possível.
 - 🎸 Meus hobbies são: música, jogos e astronomia.
 - *🛰️ Também gosto de acompanhar a passagem ISS (International Space Station).*
