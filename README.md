@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Meu nome é **John Torres do Vale**, moro em Manaus, e sou Desenvolvedor Web FullStack.
+Meu nome é **John Torres do Vale**, moro em Manaus, e sou Desenvolvedor FullStack.
 <br>Atualmente, estou cursando o penúltimo período de Tecnologia em Sistemas para Internet.
 <br><br>Posso afirmar, com todas as letras, que me encontrei na área do desenvolvimento! Gosto de aprender novas tecnologias, e também de compartilhar o conhecimento com outras pessoas.
 **Uma das melhores formas de aprender, é ensinando!**
