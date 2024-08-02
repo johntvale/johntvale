@@ -1,15 +1,18 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Meu nome é **John Torres do Vale**, moro em Manaus, e sou Desenvolvedor FullStack.
-<br>Atualmente, estou cursando o último período de Tecnologia em Sistemas para Internet.
-<br><br>Posso afirmar, com todas as letras, que me encontrei na área do desenvolvimento! Gosto de aprender novas tecnologias, e também de compartilhar o conhecimento com outras pessoas.
-**Uma das melhores formas de aprender, é ensinando!**
+Me chamo **John**, sou Desenvolvedor FullStack Javascript, especializado em React e Node.js.
+
+Estou no último período de Sistemas para Internet e, em paralelo, focando meus estudos em Machine Learning, através do curso Introdução a Machine Learning do TIC em Trilhas, oferecido pelo Instituto Eldorado.
+
+Iniciei minha jornada em 2021 com Desenvolvimento Web, mas atualmente estou direcionando meus estudos para a área de dados, onde pretendo construir minha carreira.
+
+Posso afirmar com convicção que me encontrei na área de desenvolvimento. Gosto de aprender novas tecnologias e também de compartilhar conhecimento com outras pessoas. Acredito que uma das melhores formas de aprender é ensinando.
 
 ### Um pouco sobre mim: ###
 - 💚 Sou apaixonado por tecnologia e desenvolvimento.
 - 👨‍💻 Trabalhei em projetos individuais e em grupo, postarei projetos aqui sempre que possível.
 - 🎸 Meus hobbies são: música, jogos e astronomia.
-- *🛰️ Também gosto de acompanhar a passagem ISS (International Space Station).*
+- 🛰️ Acompanho a passagem ISS (International Space Station) sempre que possível.
 
 ### Algumas Linguagens e Tecnologias que utilizo: ###
 <div display="inline">
