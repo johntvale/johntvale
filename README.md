@@ -2,7 +2,7 @@
 
 Me chamo **John**, sou Desenvolvedor FullStack Javascript, formado em Sistemas para Internet.
 
-Iniciei minha jornada em 2021 com Desenvolvimento Web. atualmente estou focando em Node.js e Angular.
+Iniciei minha jornada em 2021 com Desenvolvimento Web. Atualmente estou focando em Node.js e Angular.
 
 Posso afirmar com convicção que me encontrei na área de desenvolvimento. Gosto de aprender novas tecnologias e também de compartilhar conhecimento com outras pessoas. Acredito que uma das melhores formas de aprender é ensinando.
 
