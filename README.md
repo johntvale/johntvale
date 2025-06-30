@@ -1,6 +1,6 @@
 ## Olá, seja muito bem vindo(a)! 😎👋 ##
 
-Me chamo **John**, sou Desenvolvedor FullStack Javascript, formado em Sistemas para Internet.
+Me chamo **John**, sou Desenvolvedor FullStack Javascript | Node.js | Angular | React, formado em Sistemas para Internet.
 
 Iniciei minha jornada em 2021 com Desenvolvimento Web. Atualmente estou focando em Node.js e Angular.
 
