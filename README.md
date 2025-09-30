@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu me chamo John.
 
-Desenvolvedor Full Stack com foco em JavaScript, Node.js, Angular e React. Formado em Sistemas para Internet, atuo com desenvolvimento web desde 2021, construindo soluções eficientes e modernas.
+Sou desenvolvedor FullStack - JavaScript, Node.js, Angular, React e Python. Sou formado em Sistemas para Internet e estou curso pós-graduação MBA em Inteligência Artificial. Atuo com desenvolvimento desde 2020 construindo soluções eficientes e modernas.
 
 Sou apaixonado por tecnologia, busco melhoria constante através do estudo e prática. Acredito que ensinar é uma das formas mais poderosas de aprender e se desenvolver profissionalmente.
 
@@ -16,7 +16,8 @@ Sou apaixonado por tecnologia, busco melhoria constante através do estudo e pr�
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Back-end & banco de dados:**  
+**Back-end, Banco de Dados e Análise dados:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
