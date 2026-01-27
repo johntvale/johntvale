@@ -34,6 +34,11 @@ Sou apaixonado por tecnologia, busco melhoria constante através do estudo e pr�
 
 ### 🌟 Projetos em destaque
 
+- [**WebSite Eletroteste 2026 - HTML, CSS, JavaScript**](https://johntvale.github.io/site-eletroteste-2026/)
+<br>Site Responsivo com SEO Otimizado e Seção de Produtos com CTA personalizado para WhatsApp.
+<br>`Exemplo de CTA de produto: "Olá. Tenho interesse no produto *Inversor de Frequência IF10*. Poderia me enviar um orçamento?"`
+<br>`Também desenvolvi um Conversor .PNG para .WEBP (em Python) para melhorar o desempenho de carregamento do site.`
+
 - [**TaskBoard Eletroteste**](https://github.com/johntvale/taskboard-eletroteste)
 <br>Gerenciador de tarefas com layout responsivo e funcionalidades de kanban.
 
