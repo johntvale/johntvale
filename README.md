@@ -23,32 +23,37 @@ Sou apaixonado por tecnologia, busco melhoria constante através do estudo e pr�
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps e outros:**  
+**Outras tecnologias:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-<br>Utilizo **Thunder Client** para testar requisições e payloads de APIs de forma simplificada.
 
 ---
 
 ### 🌟 Projetos em destaque
 
-- [**WebSite Eletroteste 2026 - HTML, CSS, JavaScript**](https://johntvale.github.io/site-eletroteste-2026/)
-<br>Site Responsivo com SEO Otimizado e Seção de Produtos com CTA personalizado para WhatsApp.
-<br>`Exemplo de CTA de produto: "Olá. Tenho interesse no produto *Inversor de Frequência IF10*. Poderia me enviar um orçamento?"`
-<br>`Também desenvolvi um Conversor .PNG para .WEBP (em Python) para melhorar o desempenho de carregamento do site.`
+- [**Sales Recovery - Intelligence Dashboard (Full-Stack SaaS)**](https://sales-recovery-frontend.vercel.app/)
+<br>Ferramenta estratégica que transforma dados brutos de vendas (CSV) em insights de recuperação de receita.
+<br>• [**Repositório Front-end**](https://github.com/johntvale/sales-recovery-frontend): React 19, Vite 7, Tailwind CSS, Chart.js para visualização de dados.
+<br>• [**Repositório Back-end**](https://github.com/johntvale/sales-recovery-backend): API dedesenvolvida em Python (FastAPI) processando métricas de churn e potencial de recuperação.
+<br>• IMPORTANTE: O servidor backend pode levar até 50 segundos para carregar no primeiro acesso. Após isso aparecerá "System Online".
 
-- [**TaskBoard Eletroteste**](https://github.com/johntvale/taskboard-eletroteste)
-<br>Gerenciador de tarefas com layout responsivo e funcionalidades de kanban.
+- [**Eletroteste 2026 - Responsive Institutional Website**](https://www.lojaeletroteste.com.br/)
+<br>Website institucional de alta performance com SEO otimizado e CTAs estratégicos para conversão direta.
+<br>• [**Repositório do Projeto**](https://github.com/johntvale/site-eletroteste-2026): Desenvolvimento focado em Core Web Vitals utilizando HTML5, CSS3 e JavaScript.
+<br>• **Funcionalidade**: Seção de produtos com sistema de "Smart CTA" para WhatsApp, gerando mensagens de orçamento pré-configuradas.
 
-- [**FavMovies BackEnd - API Node.js + Express**](https://github.com/johntvale/api-nodejs-express)
-<br>Estrutura de API RESTful com autenticação, rotas protegidas e integração com MongoDB.
+- [**TaskBoard Eletroteste - Productivity Manager**](https://github.com/johntvale/taskboard-eletroteste)
+<br>Gerenciador de fluxo de trabalho interno com interface inspirada na metodologia Kanban para otimização de processos.
+<br>• [**Repositório do Projeto**](https://johntvale.github.io/taskboard-eletroteste/): Interface responsiva com organização dinâmica de tarefas, colunas de status e persistência de dados em localstorage.
+<br>• **Objetivo**: Auxiliar nas atividades de rotina do time de vendas.
 
-- [**FavMovies FrontEnd - Angular**](https://github.com/johntvale/favmovies-frontend)
-<br>Possui duas funcionalidades principais:
-<br>`- Painel administrativo de gerenciamento de filmes, possibilitando gerenciar dados e visualizar estatísticas da plataforma FavMovies.`
-<br>`- Plataforma de visualização de trailer de filmes, possibilitando assistir filmes, favoritar, avaliar, assistir mais tarde e outras funcionalidades.`
+- **FavMovies - Streaming Platform & Admin Dashboard (Full-Stack)**
+<br>Ecossistema completo de entretenimento para visualização de trailers e gerenciamento administrativo de catálogo de filmes.
+<br>• [**Repositório Front-end**](https://github.com/johntvale/favmovies-frontend): Desenvolvido em **Angular** com dashboard administrativo para estatísticas e sistema de interação (favoritos, avaliações e trailers).
+<br>• [**Repositório Back-end**](https://github.com/johntvale/api-nodejs-express): API RESTful desenvolvida em **Node.js** e **Express** com autenticação **JWT**, rotas protegidas e integração com **MongoDB**.
 
 ---
 
