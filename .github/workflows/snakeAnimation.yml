@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch:
 
 permissions:
@@ -13,23 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Snake Light
+      # Gerar Snake Light (paleta github-light)
       - name: Generate Snake Light
         uses: Platane/snk@v3
         with:
           github_user_name: johntvale
           outputs: |
             dist/github-contribution-grid-snake-light.svg
-          snake_colors: "#F7DF1E,#61DAFB,#4CAF50"
+          palette: github-light
 
-      # Snake Dark
+      # Gerar Snake Dark (paleta github-dark)
       - name: Generate Snake Dark
         uses: Platane/snk@v3
         with:
           github_user_name: johntvale
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
-          snake_colors: "#FFD93D,#21A1F1,#2ECC71"
+          palette: github-dark
 
       # Deploy para branch output
       - name: Deploy to GitHub Pages
