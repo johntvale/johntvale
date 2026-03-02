@@ -18,6 +18,9 @@ jobs:
           github_user_name: johntvale
           outputs: |
             dist/github-contribution-grid-snake.svg
+          snake_colors: |
+            light:#4CAF50
+            dark:#61DAFB
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
