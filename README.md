@@ -32,7 +32,11 @@ Sou apaixonado por tecnologia, busco melhoria constante atrav√©s do estudo e pr√
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johntvale/johntvale/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/johntvale/johntvale/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://raw.githubusercontent.com/johntvale/johntvale/output/github-contribution-grid-snake-light.svg" media="(prefers-color-scheme: light)">
+    <img src="https://raw.githubusercontent.com/johntvale/johntvale/output/github-contribution-grid-snake-light.svg" alt="GitHub contribution snake animation" />
+  </picture>
 </p>
 
 ---
