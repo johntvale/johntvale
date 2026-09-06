@@ -1,8 +1,11 @@
 ## 👋 Olá! Eu me chamo John.
 
-Sou desenvolvedor FullStack - JavaScript, Node.js, Angular, React e Python. Sou formado em Sistemas para Internet e estou curso pós-graduação MBA em Inteligência Artificial. Atuo com desenvolvimento desde 2020 construindo soluções eficientes e modernas.
+Desenvolvedor FullStack - Python(FastAPI), JavaScript, Node, Angular e React.
 
-Sou apaixonado por tecnologia, busco melhoria constante através do estudo e prática. Acredito que ensinar é uma das formas mais poderosas de aprender e se desenvolver profissionalmente.
+Possuo formação técnica em Desenvolvimento Web Full Stack e superior em Sistemas para Internet.
+<br>Atualmente estou focando meus estudos em <b>Engenharia de IA</b> através do <b>Claude Academy</b>. 
+
+Busco melhoria contínua através do estudo e prática. Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 ---
 
@@ -16,19 +19,26 @@ Sou apaixonado por tecnologia, busco melhoria constante através do estudo e pr�
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Back-end, Banco de Dados e Análise dados:**  
+**Back-end & IA:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Outras tecnologias:**  
+**Testes (SDET) e Outras tecnologias:**  
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 <p align="center">
@@ -66,8 +76,8 @@ Sou apaixonado por tecnologia, busco melhoria constante através do estudo e pr�
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- **Python** para automações, análise de dados e back-end;
-- **Inteligência Artificial** com foco em aplicações práticas e aprendizado de máquina.
+- **Python (FastAPI)**;
+- **Inteligência Artificial (Claude API)**.
 
 ---
 
